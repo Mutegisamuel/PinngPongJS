@@ -1,0 +1,26 @@
+header{
+    font-family: 'Fascinate Inline', cursive;
+    color: black;
+    text-align: center;
+    font-size: 100px;
+    background-color: blue;
+}
+body{
+    background-color: gold;
+}
+h1{
+    font-family:'Fascinate Inline', cursive;
+}
+h2{
+    font-family: 'Fascinate Inline', cursive;
+    color: black;
+}
+li{
+    font-family: 'Flavors', cursive;
+    color: black;
+}
+p{
+    font-family:  'Margarine', cursive;
+    color: black;
+}
+
